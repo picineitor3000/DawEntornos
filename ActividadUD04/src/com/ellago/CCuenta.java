@@ -9,7 +9,7 @@ package com.ellago;
 public class CCuenta {
 
 
-    private String ionnombre;
+    private String nombre;
     private String cuenta;
     private double saldo;
     private double tipoInterés;
